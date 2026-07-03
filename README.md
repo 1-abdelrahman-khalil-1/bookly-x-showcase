@@ -1,6 +1,6 @@
 # BooklyX — Mobile Ecosystem
 
-> A production-grade, multi-role SaaS booking platform built as a graduation project.  
+> A production-grade, multi-role Simplest ERP booking platform built as a graduation project.  
 > Designed for service businesses such as clinics, spas, salons, and barbershops.
 
 ---
