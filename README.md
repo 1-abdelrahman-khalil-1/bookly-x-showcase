@@ -11,11 +11,11 @@ See the app in action — both roles, full flows, real data:
 
 ### 📱 Client App
 
-https://github.com/user-attachments/assets/9d4a05d0-22b0-4a32-b121-1c5ef795f2ea
+https://github.com/user-attachments/assets/f9898bc0-12a1-4f55-a4bc-06f18b855edf
 
 ### 💼 Staff App
 
-https://github.com/user-attachments/assets/db9cb7f3-e0d9-4948-886d-bc9425459c96
+https://github.com/user-attachments/assets/dae12ba4-8f3e-4fd5-9e35-00142e7b3c6f
 
 ---
 
